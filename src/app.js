@@ -18,3 +18,5 @@ class Hero {
 }
 
 const hhh = new Hero('mango')
+
+console.log('Hello')
